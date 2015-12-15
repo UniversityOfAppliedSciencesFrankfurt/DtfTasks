@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForecasts", "WeatherForecasts\WeatherForecasts.csproj", "{32F1EA6C-3F5D-41B3-8A3C-7E0607EEA19D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostFacebookGraphAPI", "PostFacebookGraphAPI\PostFacebookGraphAPI.csproj", "{4BF085F5-30FA-4BED-AC14-FBE118335872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostFacebookSDK", "PostFacebookSDK\PostFacebookSDK.csproj", "{83F20F4F-82CB-481A-A060-370013CAE157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllTogatherDTF", "AllTogatherDTF\AllTogatherDTF.csproj", "{E29B75E4-BF18-4462-8190-036D48E49095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendsMail", "SendsMail\SendsMail.csproj", "{0FB6150E-2B06-4C42-B0FD-C1F8DF72FD26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendsSMS", "SendsSMS\SendsSMS.csproj", "{4D3DEC71-8760-4C7A-8081-ADBFDD7EDA89}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://daenet.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AllTogatherDTF\\AllTogatherDTF.csproj
+		SccProjectName1 = AllTogatherDTF
+		SccLocalPath1 = AllTogatherDTF
+		SccProjectUniqueName2 = PostFacebookGraphAPI\\PostFacebookGraphAPI.csproj
+		SccProjectName2 = PostFacebookGraphAPI
+		SccLocalPath2 = PostFacebookGraphAPI
+		SccProjectUniqueName3 = PostFacebookSDK\\PostFacebookSDK.csproj
+		SccProjectName3 = PostFacebookSDK
+		SccLocalPath3 = PostFacebookSDK
+		SccProjectUniqueName4 = SendsMail\\SendsMail.csproj
+		SccProjectName4 = SendsMail
+		SccLocalPath4 = SendsMail
+		SccProjectUniqueName5 = SendsSMS\\SendsSMS.csproj
+		SccProjectName5 = SendsSMS
+		SccLocalPath5 = SendsSMS
+		SccProjectUniqueName6 = WeatherForecasts\\WeatherForecasts.csproj
+		SccProjectName6 = WeatherForecasts
+		SccLocalPath6 = WeatherForecasts
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32F1EA6C-3F5D-41B3-8A3C-7E0607EEA19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F1EA6C-3F5D-41B3-8A3C-7E0607EEA19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F1EA6C-3F5D-41B3-8A3C-7E0607EEA19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F1EA6C-3F5D-41B3-8A3C-7E0607EEA19D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BF085F5-30FA-4BED-AC14-FBE118335872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF085F5-30FA-4BED-AC14-FBE118335872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF085F5-30FA-4BED-AC14-FBE118335872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF085F5-30FA-4BED-AC14-FBE118335872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83F20F4F-82CB-481A-A060-370013CAE157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F20F4F-82CB-481A-A060-370013CAE157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F20F4F-82CB-481A-A060-370013CAE157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F20F4F-82CB-481A-A060-370013CAE157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E29B75E4-BF18-4462-8190-036D48E49095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E29B75E4-BF18-4462-8190-036D48E49095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E29B75E4-BF18-4462-8190-036D48E49095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E29B75E4-BF18-4462-8190-036D48E49095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FB6150E-2B06-4C42-B0FD-C1F8DF72FD26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB6150E-2B06-4C42-B0FD-C1F8DF72FD26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB6150E-2B06-4C42-B0FD-C1F8DF72FD26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB6150E-2B06-4C42-B0FD-C1F8DF72FD26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D3DEC71-8760-4C7A-8081-ADBFDD7EDA89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3DEC71-8760-4C7A-8081-ADBFDD7EDA89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3DEC71-8760-4C7A-8081-ADBFDD7EDA89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3DEC71-8760-4C7A-8081-ADBFDD7EDA89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
