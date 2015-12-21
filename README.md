@@ -8,5 +8,5 @@ https://github.com/affandar/durabletask
 Article series: Introduction to  DTF
 http://developers.de/blogs/damir_dobric/archive/2015/09/16/introduction-to-durable-task-framework.aspx
 
-This reository contains a set of DTF activities around Facebook, Sending of emails, weathe forecast etc. It is originally develoe by students at University of Aplied Sciences in Frankfurt am Main.
+This reository contains a set of DTF activities around Facebook, Sending of emails, weathe forecast etc. It is originally developed by students at University of Aplied Sciences in Frankfurt am Main.
 
