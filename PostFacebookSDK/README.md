@@ -1,8 +1,8 @@
-# Introduction  #
+## Introduction ##
 
 The Facebook SDK for .NET helps developers to build web, desktop, phone and Windows Store applications that integrate with Facebook. Graph API for app to read and write to the Facebook social network. We can easily integrated Graph API and Durable Task Framework. To read more about [Facebook SDK for .NET](http://facebooksdk.net/docs/ "Facebook SDK for .NET") and [Durable Task Framework ](http://developers.de/blogs/damir_dobric/archive/2015/09/16/introduction-to-durable-task-framework.aspx). 
 
-# Background  #
+## Background  ##
 
 The Service Bus Durable Task Framework allows users to write C# code and encapsulate it within ‘durable’ .Net Tasks. Task Activities gives us opportunity to write pieces of code for performing specific step of Orchestration. Here two Task Activities have been written– 
 
