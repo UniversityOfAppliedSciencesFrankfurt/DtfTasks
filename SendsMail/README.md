@@ -1,6 +1,6 @@
 ## Introduction ##
 
-  This is a SMTP (Simple Mail Transfer Protocol) client based application. We can easily send Mail using Durable Task Framework. To        read more about Durable Task Framework.
+  This is a SMTP (Simple Mail Transfer Protocol) client based application. We can easily send Mail using Durable Task Framework. To        read more about [Durable Task Framework](http://developers.de/blogs/damir_dobric/archive/2015/09/16/introduction-to-durable-task-framework.aspx).
 
 ## Background ##
 
