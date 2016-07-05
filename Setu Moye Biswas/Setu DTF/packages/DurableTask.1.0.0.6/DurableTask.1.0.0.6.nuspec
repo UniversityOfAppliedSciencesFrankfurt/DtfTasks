@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>DurableTask</id>
+    <version>1.0.0.6</version>
+    <title>Durable Task Framework</title>
+    <authors>affandar;samara</authors>
+    <owners>affandar;samara</owners>
+    <licenseUrl>https://github.com/affandar/durabletask/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/affandar/durabletask</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package provides a C# based durable Task framework for writing long running applications. 
+
+It is built from an OSS version of https://www.nuget.org/packages/ServiceBus.DurableTask.</description>
+    <summary>Framework for writing code workflows in C#.
+
+Release notes for this release:
+https://github.com/affandar/durabletask/releases/tag/1.0.0.5</summary>
+    <copyright>Copyright 2013</copyright>
+    <language>en-US</language>
+    <tags>ServiceBus Service Bus Azure Task Durable Orchestration Workflow Activity Reliable</tags>
+    <dependencies>
+      <dependency id="ImpromptuInterface" version="6.2.2" />
+      <dependency id="Newtonsoft.Json" version="5.0.8" />
+      <dependency id="WindowsAzure.Storage" version="2.1.0.4" />
+      <dependency id="WindowsAzure.ServiceBus" version="3.0.1" />
+    </dependencies>
+  </metadata>
+</package>

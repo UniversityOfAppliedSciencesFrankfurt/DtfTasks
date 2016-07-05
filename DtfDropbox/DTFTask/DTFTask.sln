@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTFTask", "DTFTask\DTFTask.csproj", "{6401DC93-D795-4763-AF8C-5A2C17115127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6401DC93-D795-4763-AF8C-5A2C17115127}.Debug|x86.ActiveCfg = Debug|x86
+		{6401DC93-D795-4763-AF8C-5A2C17115127}.Debug|x86.Build.0 = Debug|x86
+		{6401DC93-D795-4763-AF8C-5A2C17115127}.Release|x86.ActiveCfg = Release|x86
+		{6401DC93-D795-4763-AF8C-5A2C17115127}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://daenet.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DTFTask\\DTFTask.csproj
+		SccProjectName1 = DTFTask
+		SccLocalPath1 = DTFTask
+	EndGlobalSection
+EndGlobal

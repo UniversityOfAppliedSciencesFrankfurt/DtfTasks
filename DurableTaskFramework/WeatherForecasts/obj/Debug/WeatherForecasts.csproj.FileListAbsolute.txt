@@ -50,3 +50,6 @@ C:\Users\Indraneel\Documents\Daenet\TFSVS\StudentProjects\DurableTaskFramework\W
 C:\Users\Indraneel\Documents\Daenet\TFSVS\StudentProjects\DurableTaskFramework\WeatherForecasts\obj\Debug\WeatherForecasts.csproj.GenerateResource.Cache
 C:\Users\Indraneel\Documents\Daenet\TFSVS\StudentProjects\DurableTaskFramework\WeatherForecasts\obj\Debug\WeatherForecasts.exe
 C:\Users\Indraneel\Documents\Daenet\TFSVS\StudentProjects\DurableTaskFramework\WeatherForecasts\obj\Debug\WeatherForecasts.pdb
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DurableTaskFramework\WeatherForecasts\bin\Debug\WeatherForecasts.exe.config
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DurableTaskFramework\WeatherForecasts\obj\Debug\WeatherForecasts.exe
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DurableTaskFramework\WeatherForecasts\obj\Debug\WeatherForecasts.pdb

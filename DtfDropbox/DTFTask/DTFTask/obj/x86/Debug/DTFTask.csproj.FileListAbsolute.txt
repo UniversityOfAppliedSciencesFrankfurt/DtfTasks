@@ -1,0 +1,160 @@
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\DTFTask.exe.config
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\obj\x86\Debug\DTFTask.BrowserForm.resources
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\obj\x86\Debug\Daenet.Integration.Properties.Resources.resources
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\obj\x86\Debug\DTFTask.csproj.GenerateResource.Cache
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\test.jpg
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\DTFTask.exe
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\DTFTask.pdb
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\DropboxRestAPI.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\DurableTask.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\FluentValidation.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\ImpromptuInterface.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\Mono.HttpUtility.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\RestSharp.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\System.Spatial.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\DropboxRestAPI.pdb
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\ImpromptuInterface.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\System.Spatial.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\DurableTask.pdb
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\DurableTask.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\FluentValidation.pdb
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\FluentValidation.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\RestSharp.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\obj\x86\Debug\DTFTask.exe
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\obj\x86\Debug\DTFTask.pdb
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\Avik Mazumder\DTFTask\DTFTask\obj\x86\Debug\DTFTask.csprojResolveAssemblyReference.cache
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\DTFTask.exe.config
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\obj\x86\Debug\DTFTask.exe
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\obj\x86\Debug\DTFTask.pdb
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\test.jpg
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\DTFTask.exe
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\DTFTask.pdb
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\DropboxRestAPI.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\DurableTask.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\FluentValidation.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\ImpromptuInterface.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\Mono.HttpUtility.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\RestSharp.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\System.Spatial.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\DropboxRestAPI.pdb
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\ImpromptuInterface.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\System.Spatial.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\DurableTask.pdb
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\DurableTask.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\FluentValidation.pdb
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\FluentValidation.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\RestSharp.xml
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\da\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\de\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\es\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\fi\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\fr\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\it\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\ko\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\nl\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\pl\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\pt\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\ru\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\sv\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\bin\Debug\tr\FluentValidation.resources.dll
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\obj\x86\Debug\DTFTask.csprojResolveAssemblyReference.cache
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\obj\x86\Debug\DTFTask.BrowserForm.resources
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\obj\x86\Debug\Daenet.Integration.Properties.Resources.resources
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\obj\x86\Debug\DTFTask.csproj.GenerateResource.Cache
