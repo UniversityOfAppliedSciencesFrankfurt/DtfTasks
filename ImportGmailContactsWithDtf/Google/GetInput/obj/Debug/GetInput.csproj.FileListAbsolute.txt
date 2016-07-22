@@ -1,0 +1,4 @@
+C:\TfsOnline\SE-2015-2016\StudentProjects\DTF\Sagun karki\Google\GetInput\obj\Debug\GetInput.Form1.resources
+C:\TfsOnline\SE-2015-2016\StudentProjects\DTF\Sagun karki\Google\GetInput\obj\Debug\Daenet.Integration.Properties.Resources.resources
+C:\TfsOnline\SE-2015-2016\StudentProjects\DTF\Sagun karki\Google\GetInput\obj\Debug\GetInput.csproj.GenerateResource.Cache
+C:\TfsOnline\SE-2015-2016\StudentProjects\DTF\Sagun karki\Google\GetInput\obj\Debug\GetInput.csprojResolveAssemblyReference.cache

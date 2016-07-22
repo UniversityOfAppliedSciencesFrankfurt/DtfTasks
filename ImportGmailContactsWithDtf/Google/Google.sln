@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google", "Google\Google.csproj", "{7652876F-525E-45D3-A994-FCDC09CA2725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetInput", "GetInput\GetInput.csproj", "{5D202156-82B5-4EA8-8ED3-FAC6A420D0E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7652876F-525E-45D3-A994-FCDC09CA2725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7652876F-525E-45D3-A994-FCDC09CA2725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7652876F-525E-45D3-A994-FCDC09CA2725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7652876F-525E-45D3-A994-FCDC09CA2725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D202156-82B5-4EA8-8ED3-FAC6A420D0E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D202156-82B5-4EA8-8ED3-FAC6A420D0E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D202156-82B5-4EA8-8ED3-FAC6A420D0E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D202156-82B5-4EA8-8ED3-FAC6A420D0E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://daenet.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Google\\Google.csproj
+		SccProjectName1 = Google
+		SccLocalPath1 = Google
+		SccProjectUniqueName2 = GetInput\\GetInput.csproj
+		SccProjectName2 = GetInput
+		SccLocalPath2 = GetInput
+	EndGlobalSection
+EndGlobal

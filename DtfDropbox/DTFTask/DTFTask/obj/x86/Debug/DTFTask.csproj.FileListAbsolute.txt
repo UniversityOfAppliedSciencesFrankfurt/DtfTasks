@@ -158,3 +158,6 @@ C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\ob
 C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\obj\x86\Debug\DTFTask.BrowserForm.resources
 C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\obj\x86\Debug\Daenet.Integration.Properties.Resources.resources
 C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfDropbox\DTFTask\DTFTask\obj\x86\Debug\DTFTask.csproj.GenerateResource.Cache
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks3\DtfDropbox\DTFTask\DTFTask\bin\Debug\DTFTask.exe.config
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks3\DtfDropbox\DTFTask\DTFTask\obj\x86\Debug\DTFTask.exe
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks3\DtfDropbox\DTFTask\DTFTask\obj\x86\Debug\DTFTask.pdb
