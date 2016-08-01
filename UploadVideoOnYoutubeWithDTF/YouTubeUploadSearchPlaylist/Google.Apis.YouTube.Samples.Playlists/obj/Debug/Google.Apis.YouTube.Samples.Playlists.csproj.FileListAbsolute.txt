@@ -1,0 +1,1 @@
+C:\TfsOnline\SE-2015-2016\StudentProjects\DTF\Mostafa\YouTubeUploadSearchPlaylist\Google.Apis.YouTube.Samples.Playlists\bin\Debug\Google.Apis.YouTube.Samples.exe.config

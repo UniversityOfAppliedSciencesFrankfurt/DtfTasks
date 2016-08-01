@@ -1,0 +1,2 @@
+C:\TfsOnline\SE-2015-2016\StudentProjects\DTF\Mostafa\YouTubePostVideoExample\YouTubePostVideoExample\bin\Debug\YouTubePostVideoExample.exe.config
+C:\TfsOnline\SE-2015-2016\StudentProjects\DTF\Mostafa\YouTubePostVideoExample\YouTubePostVideoExample\obj\Debug\YouTubePostVideoExample.csprojResolveAssemblyReference.cache
