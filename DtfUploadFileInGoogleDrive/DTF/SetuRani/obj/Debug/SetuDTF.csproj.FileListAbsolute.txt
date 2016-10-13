@@ -190,3 +190,6 @@ C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks3\DtfUploadFileInGoogleDrive\D
 C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks3\DtfUploadFileInGoogleDrive\DTF\SetuRani\bin\Debug\zh-Hans\System.Spatial.resources.dll
 C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks3\DtfUploadFileInGoogleDrive\DTF\SetuRani\bin\Debug\zh-Hant\System.Spatial.resources.dll
 C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks3\DtfUploadFileInGoogleDrive\DTF\SetuRani\obj\Debug\SetuDTF.csprojResolveAssemblyReference.cache
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfUploadFileInGoogleDrive\DTF\SetuRani\bin\Debug\SetuRani.exe.config
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfUploadFileInGoogleDrive\DTF\SetuRani\obj\Debug\SetuRani.exe
+C:\Users\ataulhayezafarahmad\Source\Repos\DtfTasks\DtfUploadFileInGoogleDrive\DTF\SetuRani\obj\Debug\SetuRani.pdb
